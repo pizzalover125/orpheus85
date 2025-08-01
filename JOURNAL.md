@@ -1,3 +1,11 @@
+---
+title: "orpheus85"
+author: "pizzalover125"
+description: "A tinydevboard. "
+created_at: "2025-07-29"
+---
+Hours Spent: 4 
+
 ## 7/29/25
 I wanted to speedrun a microcontroller in EasyEDA... so I did just that! I began with picking the MCU. The Attiny85 is outdated and doesn't have all the flashiest features, but is good enough for basic use and is quite cheap ($1.50 per). I began the schematic. Pretty simple, as I've worked with the attiny85 before. I did have to use some diodes and power protection circuitry. After an hour, I got this:
 <img width="769" height="536" alt="image" src="https://github.com/user-attachments/assets/1a70e4b9-f6a9-45bb-a298-6f2904989500" />
